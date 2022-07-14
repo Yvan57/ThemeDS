@@ -941,6 +941,21 @@ button[aria-label="Send a gift"] {
 .typeWindows-2-g3UY {
   position: relative;
 }
+.wordmark-2u86JB {
+  display: flex;
+  align-items: center;
+  padding: 0 6px;
+  height: calc(100% + 4px);
+  top: -4px;
+  width: fit-content;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: "Lato";
+  color: var(--darkplus-sec);
+}
+.wordmark-2u86JB > svg {
+  display: none;
+}
 
 
 .channelName-3KPsGw,
